@@ -1,4 +1,4 @@
-What is Multiple Linear Regression?
+# What is Multiple Linear Regression?
 
 A Multiple Linear Regression (MLR) is a statistical technique that models the relationship between a dependent variable Y and multiple independent (or explanatory) variables X1,X2,...Xp. 
 
