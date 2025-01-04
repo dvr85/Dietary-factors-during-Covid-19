@@ -22,16 +22,4 @@ Categorical variable: Region (Asia, North America, South America, Africa, Europe
 Dataset : https://www.kaggle.com/datasets/mariaren/covid19-healthy-diet-dataset
 
 
-# Let's Dive into statistical analysis:
-
-Insights from the scatterplot:
-
-<img width="532" alt="image" src="https://github.com/user-attachments/assets/ecc917b1-c97c-45b4-9f27-75adf5e7a6c7" />
-
-The raw data hints at a possible dichotomy in dietary factors:
-1. Potentially Protective: Cereals, Seafood, Vegetal products
-2. Potentially Risky: Animal fats, Alcohol, Processed Meat, Obesity
-3. Unclear Association: Treenuts
-Deeper analysis will help us understand the complex interplay between these factors and COVID-19.
-
 
