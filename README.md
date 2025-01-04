@@ -8,6 +8,8 @@ This study explores the relationship between energy intake (units = kcal) from v
 
 By employing a multiple linear regression model, it investigates how energy intake from these dietary sources correlate with infection rates, providing insights to inform public health strategies and enhance resilience against infectious diseases.
 
+Representation of MLR model : Confirmed(%) = β0 + β1(Alcoholic_Beverages) + β2(Animal _fats) + β3(Cereals) + β4(Eggs) + β5(Seafood) + β6(Milk) + β7(Offals) + β8(Stimulants) + β9(Treenuts) + β10(Vegetal_Products) + β11(Obesity)  
+
 
 # About Data:
 
